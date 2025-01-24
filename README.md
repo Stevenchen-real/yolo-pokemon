@@ -272,6 +272,10 @@ while True :
 
 至此，整套系统就构建完毕了。
 
+## 效果图展示
+![](https://cdn.luogu.com.cn/upload/image_hosting/w2w6e7fp.png)
+
+
 ## 一些补充
 
 - 额，你不一定非要用 yolo11 来抓金鱼，抓别的宝可梦也是可以的，但是数据集要自己准备
