@@ -1,0 +1,6 @@
+train : D:\yolo\dataset-Golden\train
+val : D:\yolo\dataset-Golden\valid
+test : D:\yolo\dateset-Golden\test
+
+names :
+  0 : Golden
